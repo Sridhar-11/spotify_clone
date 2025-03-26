@@ -1,0 +1,92 @@
+.container{
+    display: flex;
+    gap:5px;
+}
+svg{
+    width:30px;
+}
+body{
+    background-color: black;
+    color:white;
+}
+.container{
+    display: flex;
+}
+.left{
+    width:420px;
+    background-color:#121212;
+    height:600px;
+    border:2px solid black;
+    border-radius: 10px;
+}
+.pic{
+    display: flex;
+}
+.playlist{
+    background-color: #151515;
+    margin: 10px;
+}
+button{
+    border-radius: 20px;
+    width: 140px;
+    height:35px;
+    color:black;
+    font-weight: 800;
+}
+.pod{
+    background-color:#151515;
+
+}
+.an{
+word-spacing: 20px;
+}
+.eng{
+    background-color: #121212;
+    color: aliceblue;
+    width:100px;
+    border-color: bisque;
+    position: relative;
+    top:150px;
+    left:20px;
+}
+.right{
+    background-color: #121212;
+    width:1200px;
+    height:600px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.sea{
+    background-color: #151515;
+    width: 500px;
+    height:50px;
+    border-radius: 50px;
+    color: wheat;
+    font-weight: 800;
+    position:relative;
+    left:70px;
+
+}
+a{
+    color:white;
+    text-decoration:none;
+    font-weight: 700;
+    margin:10px ;
+    
+}
+.login{
+    width:100px;
+    height:50px;
+    border-radius: 30px;
+}
+.side{
+    position: relative;
+    left:350px;
+}
+.top{
+    margin: 10px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
